@@ -6,7 +6,9 @@
         "description": "Create date-links based on natural language",
         "repo": "argenos/nldates-obsidian"
     },
-    {
+    {"name": "Natural Language Dates",
+        "author": "Argentina Ortega Sainz",
+        "description": "Create date-links based on natural language",
         "id": "hotkeysplus-obsidian",
         "name": "Hotkeys++",
         "author": "Argentina Ortega Sainz",
