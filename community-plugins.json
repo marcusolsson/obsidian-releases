@@ -9,6 +9,17 @@
     {
         "id": "hotkeysplus-obsidian",
         "name": "Hotkeys++",
+        "author": "Argentina Ortega Sainz",[
+    {
+        "id": "nldates-obsidian",
+        "name": "Natural Language Dates",
+        "author": "Argentina Ortega Sainz",
+        "description": "Create date-links based on natural language",
+        "repo": "argenos/nldates-obsidian"
+    },
+    {
+        "id": "hotkeysplus-obsidian",
+        "name": "Hotkeys++",
         "author": "Argentina Ortega Sainz",
         "description": "Additional hotkeys to do common things in Obsidian",
         "repo": "argenos/hotkeysplus-obsidian"
